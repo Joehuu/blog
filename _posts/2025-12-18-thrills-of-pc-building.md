@@ -39,9 +39,9 @@ When I was building, I of course had some problems and hiccups. I’ll write thi
 - Put CPU, check
 - Take out the motherboard SSD heatsink, take out the SSD, put it in the slot, screw... no screw
 
-The motherboard SSD heatsink had a captive screw that I couldn’t remove, so I was thinking of putting it on the chipset-connected M.2 slot, resulting in "lower" performance, but I didn’t in the end. For filler, I took a dinner break.
+The motherboard SSD heatsink had a captive screw that I couldn’t remove, so I was thinking of putting it on the chipset-connected M.2 slot, resulting in "lower" performance, but I didn’t in the end. The motherboard didn't come with extra screws. For filler, I took a dinner break.
 
-So, I just took a regular screw from my brother’s motherboard box. And done. Then I put in RAM. And after that, there is some random image I took:
+So luckily, I just took a regular screw from my brother’s motherboard box that has them. And done. Then I put in RAM. And after that, here is some random image I took:
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/2025-12-18-thrills-of-pc-building/motherboard.jpg)
 
@@ -53,7 +53,7 @@ Then:
 - Put motherboard I/O shield on case, check
 - Put motherboard in case...
 
-One of the shield ground tabs got wrongly bent, as seen in this [recent video](https://youtu.be/_C6cVNnlJIk?t=123) I watched today, surprisingly. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
+One of the I/O shield ground tabs got wrongly bent, as seen in this [recent video](https://youtu.be/_C6cVNnlJIk?t=123) I watched today, surprisingly, with the same board I guess. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
 
 Then another random image, which was before or after the I/O shield fix:
 
