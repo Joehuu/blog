@@ -28,7 +28,7 @@ The pros for my build are that it comes with more storage and more watts on the 
 
 I also don’t really like the trending designs of cases with a fishtank design and front I/O ports at the bottom, as shown on the iBUYPOWER. There are also random/questionable components and overheating problems, as said in the reviews.
 
-Here's the backstory. The client or my sister wanted a new PC but weren't in a rush (yet I press button on the motherboard/ram bundle). She is upgrading from an i7-2600K, GTX 1070, and 16GB DDR3 RAM. She plans to keep using her 120Hz 1080p monitor. Emphasis on that as the RTX 5070 should be enough. The reason why partly is because she wants to play Space Marine 2 and skate., but that system can’t launch them, according to her and the minimum specs. She also has a 3 TB HDD for games that’s almost filled up, so she could take advantage of the 4 TB SSD (personally, I would’ve gotten more RAM instead, but prices are outrageous right now) and use the HDD for other stuff. SSD prices are also steadily climbing up, so I just got the best price/GB kind of thing on PCPartPicker with DRAM cache as I believe it is needed for 16GB of RAM. Don't quote me on that though.
+Here's the backstory. The client or my sister wanted a new PC but wasn't in a rush (yet I press button on the motherboard/ram bundle). She is upgrading from an i7-2600K, GTX 1070, and 16GB DDR3 RAM. She plans to keep using her 120Hz 1080p monitor. Emphasis on that as the RTX 5070 should be enough. The reason why partly is because she wants to play Space Marine 2 and skate., but that system can’t launch them, according to her and the minimum specs. She also has a 3 TB HDD for games that’s almost filled up, so she could take advantage of the 4 TB SSD (personally, I would’ve gotten more RAM instead, but prices are outrageous right now) and use the HDD for other stuff. SSD prices are also steadily climbing up, so I just got the best price/GB kind of thing on PCPartPicker with DRAM cache as I believe it is needed for 16GB of RAM. Don't quote me on that though.
 
 She doesn’t care about the budget and aesthetics of the build, so I just went with the minimum RGB fans at the front with the free bundled RGB RAM that came with the motherboard. I could’ve gotten an RGB CPU cooler for $2 more, but...
 
@@ -50,7 +50,7 @@ Yes, I have a LTT desk pad and an iFixit Mako Driver Kit.
 Then:
 - Put CPU cooler, check
 - Temporarily remove rear motherboard fan, check
-- Put motherboard i/o shield on case, check
+- Put motherboard I/O shield on case, check
 - Put motherboard in case...
 
 One of the shield ground tabs got wrongly bent, as seen in this [recent video](https://youtu.be/_C6cVNnlJIk?t=123) I watched today, surprisingly. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
@@ -77,8 +77,8 @@ Here is a dump of them in no particular order:
 - bluetooth, check 
 - wifi, check (latest 6101.19.134.0 driver has intermittent connection issues, at least on Minecraft, use 6001.19.119.0 for now)
 - gpu, check (latest 591.44 driver slows down system down to a slideshow and can maybe recover after ~5 minutes, repro: alt-tabbing on Minecraft and waiting for a bit, use 581.80 for now) (may need more testing on other games for some tradeoff bug fixes or stuff)
-- front i/o, check 
-- hardware and cooling, check (did stress tests: memtest86 (ram), furmark (gpu), cinebench and prime95 (cpu)
+- front I/O, check 
+- hardware and cooling, check (did stress tests: memtest86 (ram), furmark (gpu), cinebench and prime95 (cpu))
 - firmware update on ssd, check (had some old known bugs)
 - bios update, check (just because and when I was debugging the above)
 - bios settings (expo 1 [for AMD CPU and seemingly the only setting that does 6000 Mhz], forcefully disable iGPU [auto doesn't work, unnecessarily reserves ram for unused iGPU])
