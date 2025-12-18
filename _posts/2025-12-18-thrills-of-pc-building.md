@@ -1,6 +1,7 @@
 ---
 title: "Thrills of PC Building"
 date: 2025-12-18T15:10:00-08:00
+last_modified_at: 2025-12-18T15:30:00-08:00
 categories:
   - blog
 tags:
@@ -14,6 +15,8 @@ Unfortunately, I don't have any video content to share as I don't have the "stud
 
 Here's the setup: <https://pcpartpicker.com/list/KXz874> $1512.69
 
+(Free 16GB DDR5 with motherboard)
+
 I may get criticized because of maybe a “better” deal on a prebuilt from Costco:
 <https://www.costco.com/p/-//4000384603>
 
@@ -25,7 +28,7 @@ The pros for my build are that it comes with more storage and more watts on the 
 
 I also don’t really like the trending designs of cases with a fishtank design and front I/O ports at the bottom, as shown on the iBUYPOWER. There are also random/questionable components and overheating problems, as said in the reviews.
 
-Here's the backstory. The client or my sister wanted a new PC but weren't in a rush. She is upgrading from an i7-2600K, GTX 1070, and 16GB DDR3 RAM. She plans to keep using her 120Hz 1080p monitor. Emphasis on that as the RTX 5070 should be enough. The reason why is because she wants to play Space Marine 2 and skate., but that system can’t launch them, according to her and the minimum specs. She also has a 3 TB HDD for games that’s almost filled up, so she could take advantage of the 4 TB SSD (personally, I would’ve gotten more RAM instead, but prices are outrageous right now) and use the HDD for other stuff. SSD prices are also steadily climbing up, so I just got the best price/GB kind of thing on PCPartPicker with DRAM cache as I believe it is needed for 16GB of RAM. Don't quote me on that though.
+Here's the backstory. The client or my sister wanted a new PC but weren't in a rush (yet I press button on the motherboard/ram bundle). She is upgrading from an i7-2600K, GTX 1070, and 16GB DDR3 RAM. She plans to keep using her 120Hz 1080p monitor. Emphasis on that as the RTX 5070 should be enough. The reason why partly is because she wants to play Space Marine 2 and skate., but that system can’t launch them, according to her and the minimum specs. She also has a 3 TB HDD for games that’s almost filled up, so she could take advantage of the 4 TB SSD (personally, I would’ve gotten more RAM instead, but prices are outrageous right now) and use the HDD for other stuff. SSD prices are also steadily climbing up, so I just got the best price/GB kind of thing on PCPartPicker with DRAM cache as I believe it is needed for 16GB of RAM. Don't quote me on that though.
 
 She doesn’t care about the budget and aesthetics of the build, so I just went with the minimum RGB fans at the front with the free bundled RGB RAM that came with the motherboard. I could’ve gotten an RGB CPU cooler for $2 more, but...
 
@@ -50,7 +53,7 @@ Then:
 - Put motherboard i/o shield on case, check
 - Put motherboard in case...
 
-One of the shield ground tabs got wrongly bent, as seen in this recent video I watched today, surprisingly in <https://youtu.be/_C6cVNnlJIk?t=123>. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
+One of the shield ground tabs got wrongly bent, as seen in this [recent video](https://youtu.be/_C6cVNnlJIk?t=123) I watched today, surprisingly. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
 
 Then another random image, which was before or after the I/O shield fix:
 
