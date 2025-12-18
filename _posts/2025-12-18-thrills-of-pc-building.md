@@ -12,10 +12,10 @@ It's been a while. What happened? Well, not that much. I'm just really inconsist
 
 Unfortunately, I don't have any video content to share as I don't have the "studio" setup to do so. There are a lot of PC building videos anyway, so I don't think I'll stand out from the rest. So enjoy this written version of what I’ve gone through in terms of building and testing.
 
-Here's the setup: https://pcpartpicker.com/list/KXz874 $1512.69
+Here's the setup: <https://pcpartpicker.com/list/KXz874> $1512.69
 
 I may get criticized because of maybe a “better” deal on a prebuilt from Costco:
-https://www.costco.com/p/-//4000384603
+<https://www.costco.com/p/-//4000384603>
 
 > iBUYPOWER Element Gaming PC Desktop - AMD Ryzen 7 9800X3D - NVIDIA GeForce RTX 5070 12GB - Windows 11 Home - 32GB RAM - 2TB SSD $1,499.99
 
@@ -40,7 +40,7 @@ The motherboard SSD heatsink had a captive screw that I couldn’t remove, so I 
 
 So, I just took a regular screw from my brother’s motherboard box. And done. Then I put in RAM. And after that, there is some random image I took:
 
-![](/assets/images/2025-12-18-thrills-of-pc-building/motherboard.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2025-12-18-thrills-of-pc-building/motherboard.jpg)
 
 Yes, I have a LTT desk pad and an iFixit Mako Driver Kit.
 
@@ -50,11 +50,11 @@ Then:
 - Put motherboard i/o shield on case, check
 - Put motherboard in case...
 
-One of the shield ground tabs got wrongly bent, as seen in this recent video I watched today, surprisingly in https://youtu.be/_C6cVNnlJIk?t=123. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
+One of the shield ground tabs got wrongly bent, as seen in this recent video I watched today, surprisingly in <https://youtu.be/_C6cVNnlJIk?t=123>. I was done building this on the 15th at night. I did fix it, with some hiccups. When I placed the motherboard for the first time, it got stuck. In the end, I just had to put some rightward pressure. The rest was easy, despite how messy the place looked with boxes open and plastic bags scattered everywhere.
 
 Then another random image, which was before or after the I/O shield fix:
 
-![](/assets/images/2025-12-18-thrills-of-pc-building/case.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2025-12-18-thrills-of-pc-building/case.jpg)
 
 See the Nino plush. Anyway...
 
@@ -66,7 +66,7 @@ Then:
 
 Lastly, I just put the right metal panel back on (please don’t put the glass panel back yet) and hoped for a post:
 
-![](/assets/images/2025-12-18-thrills-of-pc-building/post.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/2025-12-18-thrills-of-pc-building/post.jpg)
 
 It posted, but there are a few more issues at hand. Throughout the following days, I did some tests.
 
