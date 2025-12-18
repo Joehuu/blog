@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Joseph Madamba"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Someone who likes fixing small things"
+  bio    : "Dabbling in coding and DIY"
   links:
     - label: "Linktree"
       icon: "fas fa-fw fa-link"
