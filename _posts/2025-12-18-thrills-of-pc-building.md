@@ -92,7 +92,7 @@ It posted, but there are a few more issues at hand. Throughout the following day
 Here is a dump of them in no particular order:
 - bluetooth, check 
 - wifi, check (latest 6101.19.134.0 driver has intermittent connection issues, at least on Minecraft, use 6001.19.119.0 for now)
-- gpu, check (latest 591.44 driver slows down system down to a slideshow and can maybe recover after ~5 minutes, repro: alt-tabbing on Minecraft and waiting for a bit, use 581.80 for now) (may need more testing on other games for some tradeoff bug fixes or stuff)
+- gpu, check (latest 591.44 driver slows down system to a slideshow and can maybe recover after ~5 minutes, repro: alt-tabbing on Minecraft and waiting for a bit, use 581.80 for now) (may need more testing on other games for some tradeoff bug fixes or stuff)
 - front I/O, check 
 - hardware and cooling, check (did stress tests: memtest86 (ram), furmark (gpu), cinebench and prime95 (cpu))
 - firmware update on ssd, check (had some old known bugs)
