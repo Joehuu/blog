@@ -1,7 +1,7 @@
 ---
 title: "Thrills of PC Building"
 date: 2025-12-18T15:10:00-08:00
-last_modified_at: 2025-12-18T16:10:00-08:00
+last_modified_at: 2025-12-18T17:25:00-08:00
 categories:
   - blog
 tags:
@@ -48,7 +48,7 @@ Here's the backstory. The client or my sister wanted a new PC but wasn't in a ru
 
 She doesn’t care about the budget and aesthetics of the build, so I just went with the minimum RGB fans at the front with the free bundled RGB RAM that came with the motherboard. I could’ve gotten an RGB CPU cooler for $2 more, but...
 
-Do note, this is the second time I’m building a PC, the first time alone. The first time was building with my brother. I don’t use anti-static wrist straps, and I didn’t do the "plug and touch PSU" occasionally" thing. I just don't wear socks. IIRC I didn’t wear them and have a wood floor hehe.
+Do note, this is the second time I’m building a PC, the first time alone. The first time was building with my brother. I don’t use anti-static wrist straps, and I didn’t do the "plug and touch PSU occasionally" thing. I just don't wear socks. IIRC I didn’t wear them and have a wood floor hehe.
 
 When I was building, I of course had some problems and hiccups. I’ll write this in steps:
 - Get motherboard, check
