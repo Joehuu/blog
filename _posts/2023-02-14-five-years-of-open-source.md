@@ -3,7 +3,7 @@ title: "Five Years of Open Source"
 date: 2023-02-14T23:50:00-08:00
 last_modified_at: 2023-02-16T23:25:00-08:00
 categories:
-  - blog
+  - post
 tags:
   - coding
   - osu!

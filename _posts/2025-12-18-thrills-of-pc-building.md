@@ -3,7 +3,7 @@ title: "Thrills of PC Building"
 date: 2025-12-18T15:10:00-08:00
 last_modified_at: 2025-12-18T17:25:00-08:00
 categories:
-  - blog
+  - post
 tags:
   - diy
   - computer

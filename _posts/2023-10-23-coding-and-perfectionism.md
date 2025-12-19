@@ -2,7 +2,7 @@
 title: "Coding and Perfectionism"
 date: 2023-10-23T22:30:00-07:00
 categories:
-  - blog
+  - post
 tags:
   - coding
 ---
