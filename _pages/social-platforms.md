@@ -1,5 +1,5 @@
 ---
-permalink: /social/
+permalink: /about/social/
 title: "Social Platforms"
 ---
 
